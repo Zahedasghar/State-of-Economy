@@ -355,12 +355,9 @@ class:
 #### Traditional export : sensitive to international market
 #### Trade deficit swallow all remittances
 #### unsustainable CAD
----
-class: center middle inverse
-
-## CATCH-22 Situation
-# `r emo::ji ("arrow_up")` Import `r emo::ji ("right_arrow")`   Revenue`r emo::ji ("arrow_up")` and `r emo::ji ("arrow_down")` Import `r emo::ji ("arrow_right")`   Revenue`r emo::ji ("arrow_down")`
-
+ __`r emo::ji ("arrow_up")` M `r emo::ji ("arrow_right")`   revenue`r emo::ji ("arrow_up")` and `r emo::ji ("arrow_down")` M `r emo::ji ("arrow_right")`   revenue`r emo::ji ("arrow_down")`__
+ __CATCH 22 Situation__
+ 
 ???
  : a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule the show-business catch-22—no work unless you have an agent, no agent unless you've worked— Mary Murphy also : the circumstance or rule that denies a solution.
 ---
@@ -448,21 +445,19 @@ Pakistan : focus on metros, roads and approach is lets buy from somewhere
 -CPEC: not much positive impact, they will build and go away
 ---
 ## Pakistan 13th IMF programs
-###  IMF conditions
-#### Revnue generation
+- IMF conditions
+1. Revnue generation
 Porducing power in a wrong way, high taxes on utlities are regressive taxes
 Its upper, middle income who put pressure on oil, cars.
 
-### Fiscal Deficit target
-- #### capital expenditure is included which is not included in other countries.
-- #### Need investment instruments rather restricting it by the IMF
-- #### History of development in the world
-- #### subsidies
-
----
-Removal of subsidies itself will not solve economic problems automatically.
-####  Investment in state capacity: Education, Health
-####  independent BOGs for securing investments
+## Fiscal Deficit target
+-capital expenditure is included which its not included in other countries.
+- Need investment instruments rather restricting it by the IMF
+-History of development in the world
+ - which subsidies
+  Removal of subsidies itself will not solve economic problems automatically.
+  Investment in state capacity: Education, Health
+  independent BOGs for securing investments
   
 Balance: Government in public investment in certain sectors and come out of non-productive sectors
 Inflation is consequence of BOP, fiscal deficit
@@ -493,45 +488,45 @@ class: top left
 ---
 ## What to do ?
 
-- #### Pakistan's economic and export problems are deep and structural 
-- #### Focusing on fixing twin deficit (CAD & FD) is misplaced. Addressing symptoms will not cure the disease
-- #### Build up domestic capacity to innovate, to organize and to manage  - An Economist Job: not to tell what to do and what not 
+ - Pakistan's economic and export problems are deep and structural 
+ - Focusing on fixing twin deficit (CAD & FD) is misplaced. Addressing symptoms will not cure the disease
+ - Build up domestic capacity to innovate, to organize and to manage  - An Economist Job: not to tell what to do and what not 
 
-- #### But tell cost of doing business as usual vs develop your software and progress 
+ - But tell cost of doing business as usual vs develop your software and progress 
 
-- #### Talent will not stay 
+ - Talent will not stay 
 
-- #### Production over Commerce 
+ - Production over Commerce 
 
-- #### Our full focus on meeting dollar demand is misplaced
+ - Our full focus on meeting dollar demand is misplaced
 
-- #### Social contract goods  
+ - Social contract goods  
 
-- #### Cities have key role in provision of social contract goods 
+ - Cities have key role in provision of social contract goods 
 
+--
+- Most of economic thinking:
+“How can living-standards be improved for most of humanity” 
+
+- Answers vary while Question remain same 
+- Eternal struggle for mankind 
+Preachers, utopians philosophers and many others: 
+Everyone defends one’s utopia that people lot can be improved if follow their description 
+- Dev. Community: prey to descriptive approach 
+- Experts: pretend to have solutions 
+- We are all told :  Implement, Implement … 
+- Monitoring mechanisms: MDGs, SDGs 
+- 70 years of experts dev.policy, aid funding and many consultant, plan… 
+- Development has eluded a large number of countries : Why is that? 
 ---
-## Most of economic thinking:
-> ### “How can living-standards be improved for most of humanity” 
-
-- #### Answers vary while Question remain same 
-- #### Eternal struggle for mankind 
-- #### Preachers, utopians philosophers and many others: 
-- #### Everyone defends one’s utopia that people lot can be improved if follow their description 
-- ####  Dev. Community: prey to descriptive approach 
-- ####  Experts: pretend to have solutions 
-- ####  We are all told :  Implement, Implement … 
-- ####  Monitoring mechanisms: MDGs, SDGs 
-- ####  70 years of experts dev.policy, aid funding and many consultant, plan… 
-- ####  Development has eluded a large number of countries : Why is that? 
----
-- ####  Donors and Experts : Easy answers 
-- ####  Prescriptions are not implemented 
-- ####  Lack of political will : If success, they celebrate otherwise blame 
-- ####  Best practices 
-- ####  How can same policies for all countries 
-- ####  Practices well known ,govt implementing agency 
-- ####  Approach : Top-down (All solutions from foreign experts)
-- ####  Land-cruisers, consultants … results are the same
+- Donors and Experts : Easy answers 
+- Prescriptions are not implemented 
+- Lack of political will : If success, they celebrate otherwise blame 
+- Best practices 
+- How can same policies for all countries 
+- Practices well known ,govt implementing agency 
+- Approach : Top-down (All solutions from foreign experts)
+Land-cruisers, consultants … results are the same
 
 ---
 ## What is wrong with this model/approach
@@ -557,13 +552,8 @@ People don’t change because consultant want
 
  - Local issues, cultures & community, social and human capital plays a critical role 
  
- - Planners try their best even out these difficult often at huge cost with very little success 
- 
----
-> ## [.zomp[Recently, an encourage shift away from .orange.bold.i[best practices] in the dominant good-governance agenda toward a localized .orange.bold.i[best fit] approach in foreign aid and reforms. Experts like Rodrik, Pritchett, Woodlock, Grindle, Fkuyama, Evans among others, have argued that solutions in developing countries should be tailored to .orange.i[local context], .orange.i[local knowledge], and .orange.i[particular situation]].](https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
----
+ - Planners try their best even out these difficult often at huge cost with very little success
 
-> ## [.blue[Andrew prescribes the following rule of thumb in approach he calls "problem driven iterative adaptation (PDIA)":instead of selling solutions to aid recipients, .yellow_orange[identify local problems first]; .orange[instead of imposing best practices], .yellow_orange[use step-by-step experimentation]; .orange[instead of making top-down plans], .yellow_orange[engage broad stakeholders]].]((https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
 ---
 Revenue Targets missed: More taxes   64 WHT
 
@@ -864,7 +854,10 @@ The Use of Knowledge in Society
    - Education, Health investment for better inputs
    - Boosting domestic productivity
    - Agriculture
-
+---
+class: center middle inverse
+## CATCH-22 Situation
+# `r emo::ji ("arrow_up")` Import `r emo::ji ("right_arrow")`   Revenue`r emo::ji ("arrow_up")` and `r emo::ji ("arrow_down")` Import `r emo::ji ("arrow_right")`   Revenue`r emo::ji ("arrow_down")`
 
 ---
-`r emo::ji ("bird")`
+`r emo::ji ("bird_sparrow")`
