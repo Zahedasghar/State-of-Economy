@@ -74,7 +74,7 @@ width="px"
 
 ---
 class: top left 
-> ## .orange.big[Large trade deficit after having current account surplus of $424 million in July last year. Pakistan has gone through this boom and bust cycles many times before: an import-driven boom, balance of payments crisis, International Monetary Fund (IMF) bailout, stabilisation, a period of growth and then back to a crisis. This time is no different.]
+> ## .pink.big[Large trade deficit after having current account surplus of $424 million in July last year. Pakistan has gone through this boom and bust cycles many times before: an import-driven boom, balance of payments crisis, International Monetary Fund (IMF) bailout, stabilisation, a period of growth and then back to a crisis. This time is no different.]
 ---
 class: top left inverse 
 ## Economic Challenges
@@ -122,16 +122,17 @@ More resources to provinces but w/o liability of raising revenue
 ![stagnancy](productivity_stagnation.png)
 ---
 ## What is wrong
-
 ###  Pakistan economy crashes every once in a while: feature by design 
-####   Very low investment rate
+####   Very low investment rate 
+|Country| Private Investment (%of GDP)|
+|-------|-----------|
+|Pakistan| 10%|
+|Bangladesh/India| 20-25%|
 ####   Fiscal problem: For every USD govt raises in revenue, it has to spend 2.7 USD 
-####  Income 1000 USD, spending 2700 USD
-####   Sins: Income and pensions
+####  Income 1000 USD, spending 2700 USD, Balance of Payment: X=1000, M=2750 USD
+####   Sins: SOEs, Rent Seeking, pensions
 ####   If no borrowing, country to shut down
-####   Balance of Payment: X=1000, M=2750 USD
 ####   Liquidity Problem: Short maturity term on average 1 to 2 years
-####   Loss of sovereignty due to economic situation international and financial 
 ---
 ## Flawed Economic Discourse 
 ### Pipedreams: SEZs, Roads, Corridors, Gas pipelines 
@@ -139,6 +140,7 @@ More resources to provinces but w/o liability of raising revenue
 ### Stuck: hardcore paradigm of development 
 
 ### Reality: Software is primary requirement
+####   Loss of sovereignty due to economic situation international and financial 
 
 ---
 ## [CAD: A cause for concern](https://www.brecorder.com/news/40128736)
@@ -173,48 +175,6 @@ Bangladesh achieved a lot by boosting its export and even Bhutan did well by att
 - #### 4/5 year ago: same situation , CAD=20 billion USD
 - #### Economy has to contract , its recurrence
 - #### This chronic issue of BOP causing Pakistan not to grow
- 
----
-### Why repeated problem of BOP
-
-- #### Pak import is X=2M, remittances $25b
-- #### Import demandd but nothing to generate to sell
-- #### low productivity
-- ####  Elite Capture: Everywhere but engaged in productive activities: China, Japan (in the past) and export oriented
-
-### Twin problem: Elite capture and also of bad quality
-???
- Atif Mian
-Pakistan has fundamentally unsustainable model
-Business to make money= Real Estate
-money increase due to appreciation of land but unproductive side for GDP
--Land: Rent seeking
-When lot of value is generated through a non productive sector, it generates demand which leads to increase in goods and services impying to more import[oil, cars, other Goods and Services]
-- Are these individuals producing something to be sold in international market?
-IT, car manufacturing....
-Value generation: unproductive
--Sugar industry value generation leads to demand but not for the rest of the world
-
----
-## Why Export Matters
-- global competitiveness 
-
-- Capacity to innovate and compete with the rest of the world 
-
-- 1992: Indian export increased 13 times while Pak only doubles 
-
-- Vietnam : 15 B USD in 2001 and 220 B USD in 2018  
-
-- Export per capital India increased by 6.8 times while BD by 6.2 as compared to Pakistan 
-    - Uncompetitiveness as compared to neighboring countries
-
-- Export : dynamism, technology absorption and adaptation, building reputation, brand names 
-
-- Sports, textile, surgical: no branding 
-
-- No MNCs developed 
-
-- Reasons: Mangerial skills, organizational skills  
 
 ---
 ### Sustained Flawed Policies
@@ -241,6 +201,61 @@ Value generation: unproductive
 a) - In almost all 22 IMF programs, govts never made any progress in any challenging reform(s) and all govts shifted the onus of achieving full cost of recovery on to the consumers by raising tariff. 
   - Circular debt 1.2 trillion in 2018 to 2.2 trillion rupees today (Nov.2021)
 b)   - Given current scenario, only indirect taxes leading to more burden on poor than rich. Instead of slashing expenditure, Tarin increased current expenditure significantly. 
+
+
+---
+
+### Why repeated problem of BOP
+
+- #### Pak Import=2*X, remittances $25b
+- #### Import demandd but nothing to generate to sell
+- #### low productivity
+- ####  Elite Capture: Everywhere but engaged in productive activities: China, Japan (in the past) and export oriented
+
+### Twin problem: Elite capture and also of bad quality
+???
+ Atif Mian
+Pakistan has fundamentally unsustainable model
+Business to make money= Real Estate
+money increase due to appreciation of land but unproductive side for GDP
+-Land: Rent seeking
+When lot of value is generated through a non productive sector, it generates demand which leads to increase in goods and services impying to more import[oil, cars, other Goods and Services]
+- Are these individuals producing something to be sold in international market?
+IT, car manufacturing....
+Value generation: unproductive
+-Sugar industry value generation leads to demand but not for the rest of the world
+
+---
+
+## Why Export Matters
+- global competitiveness 
+
+- Capacity to innovate and compete with the rest of the world 
+
+- 1992: Indian export increased 13 times while Pak only doubles 
+
+- Vietnam : 15 B USD in 2001 and 220 B USD in 2018  
+
+- Export per capital India increased by 6.8 times while BD by 6.2 as compared to Pakistan 
+    - Uncompetitiveness as compared to neighboring countries
+
+- Export : dynamism, technology absorption and adaptation, building reputation, brand names 
+
+- Sports, textile, surgical: no branding 
+
+- No MNCs developed 
+
+- Reasons: Mangerial skills, organizational skills  
+---
+
+> # .orange[A survey quoted by .pink[*The Economist*] magazine (Feb 8th, 2021) of the Indian economy stated that a billion dollars of export growth in industry leads to the employment of 400,000 workers.]
+
+### Whether correct or not, but its obvious export leads to huge employment. Pakistan export is labour intensive, so increase in export will lead to increase in employment.
+
+### ER4export, China
+???
+More than fixed exchange rate, intelligent management is needed. China is a case in point which kept ER continuously undervalued and dominated international export market.
+
 
 ---
 ### World Bank Report on Reviving Pakistan Exports
@@ -269,11 +284,45 @@ class: top left
 Hafiz Pasha talk at SDPI
   
 ---
-class: title-slide
+class:
 
 ###.pull-left[.pull-left[Agriculture Income : Rs.1800 to Rs.2000 billion while tax is Rs.2 billion].pull-right[Rental income from large houses :1000 sq.yard plus: Rs.460 billion, tax collection is Rs.6 billion]]
 
 ###.pull-right[.pull-left[Top 10 banks profits: Rs. 1400 billion (3% of GDP, 25% of tax revenue, 11% more than defense expenditure)].pull-right[.pull-right[Petroleum subsidy benefiting middle, upper middle and rich class]]]
+
+---
+
+## Budget issues
+
+### Budget deficit : Rs.4900 billion (9% of GDP)
+### Target deficit : Rs.3450 billion (6.3%)
+Almost Rs.1500 to Rs.1600 billion deficit, one of the largest in hisotry
+We are at the limits of our solvency
+### Reasons
+Unrealistic budget outlays: increase demand which leads to mushroom growth
+### IMF will closely watch shape of the budget
+Why this huge budge deficit : Oil prices led to fall in revenue from PL
+
+---
+
+### Proposals
+
+### 1.Reduce import
+- Increase tariff on agriculture products , we have opened too much of our economy
+- Zero cotton duty and agri products 15 to 30% , while India upto 60%
+3 types of items
+- food items
+- medicines
+- fuel 
+### 1. Progressive income tax
+- maximum income tax bracket : India 10 times that of per capita GDP
+-                              Bangladesh 8 times
+-                              Pakistan 300 times
+Reduce it 20 million from Rs.75 million
+Tax on consolidated income not in piecemeal
+
+- Captial Gains Tax : 0 after plot is sold after 3 years
+### 1. Increase Oil prices
 
 ---
 class: 
@@ -547,22 +596,23 @@ People don’t change because consultant want
 
 - Most serious economists moved away from this approach 
 ---
-- Economy: set of ind and groups decisions 
- - Bottom-up
-    - Economy: Productivity, products, activity, trade and exchange, transaction among many others 
-    - Even well motivated plans to send children to schools failed
-    - Parents decisions more complex than donors assume
-    - Development not uniform across the countries
 
- - Local issues, cultures & community, social and human capital plays a critical role 
- 
- - Planners try their best even out these difficult often at huge cost with very little success 
- 
----
 > ## [.zomp[Recently, an encouraging shift away from .orange.bold.i[best practices] in the dominant good-governance agenda toward a localized .orange.bold.i[best fit] approach in foreign aid and reforms. Experts like .orange[Rodrik, Pritchett, Woodlock, Grindle, Fkuyama, Evans among others], have argued that solutions in developing countries should be tailored to .orange.i[local context], .orange.i[local knowledge], and .orange.i[particular situation]].](https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
 ---
 
 > ## [.blue[Andrew prescribes the following rule of thumb in approach he calls "problem driven iterative adaptation (PDIA)":instead of selling solutions to aid recipients, .yellow_orange[identify local problems first]; .orange[instead of imposing best practices], .yellow_orange[use step-by-step experimentation]; .orange[instead of making top-down plans], .yellow_orange[engage broad stakeholders]].]((https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
+---
+
+### Economy: set of ind and groups decisions 
+#### Bottom-up, Top-down, mix or some other: vary 
+#### Economy: Productivity, products, activity, trade and exchange, transaction among many others 
+#### Even well motivated plans to send children to schools failed
+#### Parents decisions more complex than donors assume
+#### Development not uniform across the countries
+#### Local issues, cultures & community, social and human capital plays a critical role 
+ 
+#### Planners try their best even out these difficult often at huge cost with very little success 
+ 
 ---
 Revenue Targets missed: More taxes   64 WHT
 
@@ -590,6 +640,7 @@ Revenue Targets missed: More taxes   64 WHT
  - 5-Year plans for all Basics
  
 ---
+## One Opinion
 - Securing property rights 
  - Strengthening contracting 
  - Reducing transaction costs 
@@ -597,11 +648,11 @@ Revenue Targets missed: More taxes   64 WHT
  - Removing incentives for rent seeking and putting incentives for entrepreneurship 
    - For Example : W/o good governance: no wish list will happen as plan after plan failed due to poor governance
 
-> > “All of us have to come out of our comfort zone and encourage discussion and debate”
+         > “All of us have to come out of our comfort zone and encourage discussion and debate”
 
 ## Hayek, Change and Complexity
 
->> It is, perhaps, worth stressing that economic problems arsie always and only in consequences of change. 
+> It is, perhaps, worth stressing that economic problems arsie always and only in consequences of change. 
 The Use of Knowledge in Society
 ---
 
@@ -617,21 +668,20 @@ The Use of Knowledge in Society
 ---
 
 ## Boosting Domestic Productivity
- -> Boosting domestic productivity which means raising the capacities and capabilities of your people 
- -> Our focus : Ask US to do this, ask China for Gawadar/CPEC 
- -> Not focusing on building domestic institutions, improving domestic capacity 
- -> Why don't governments focus 
-   - One needs hard work, local thinking, building teams, build institutions 
+ > Boosting domestic productivity which means raising the capacities and capabilities of your people 
+ - Our focus : Ask US to do this, ask China for Gawadar/CPEC 
+ - Not focusing on building domestic institutions, improving domestic capacity 
+ - Why don't governments focus 
+ - One needs hard work, local thinking, building teams, build institutions 
    - Hire right competent people
    - no to nepotism
-  -> Easy not to do any of that 
+   - Easy not to do any of that  
+   
+   ### Learning how to catch a fish...
   
-  > Learning how to catch a fish...
-  
- -> Broad conceptual parameters
-   - Education, Health investment for better inputs
-   - Boosting domestic productivity
-   - Agriculture
+  - #### Broad conceptual parameters
+  - #### Boosting domestic productivity
+  - #### Agriculture
    
 ---
 ## Public Sector Enterprises 
@@ -865,3 +915,136 @@ Revenue Targets missed: More taxes   64 WHT
 
 ---
 `r emo::ji ("bird")`
+
+---
+class: 
+
+## [Living beyond means, Shabar Zaidi](https://www.brecorder.com/news/40172210/living-beyond-means)
+
+|External Debt (USD) | %age  | Debt Payment
+|----------|-------|------|
+| 1970     | 3.5 |256 m|
+| 2004    | 33.17| |
+| 2018    | 93 |6 billion|
+| 2021    | 130.6 |12 billion|
+| Jun20-Sep23    |  |27.8 billion|
+
+#### Pakistan: 1/52 countries, severe debt crisis
+Pakistan HDI rank
+
+| Country | Rank |
+|----------|-------|
+| Pakistan     | 152|
+| India      | 131 |
+| Bangladesh    | 133 |
+---
+
+### Debt composition and consumption
+| Nature | %age  |
+|----------|-------|
+| Multilateral      | 48% |
+| Bilateral       | 30% |
+| Commercial   | 22% |
+###Latter two : only usef for financing CAD and no capital investment
+Out of multilateral: its used for consumption
+
+### No infrastructure project like a dam was built
+ 
+???
+
+Due to heavy debt burden, little left for investment in health and education
+
+---
+
+##Trend of borrowing
+####  Pakistan: Pampered country during cold war 
+SEATO, CENTO 1950s
+#### Borrowing during cold war by leveraging geography
+#### Believing in trend to continue due geostrategic location and
+#### dollars from west tax money to continue to pour
+
+### .pink.pull-left[Pakistan as a state and Pakistanis in their personal capacity are living on borrowed money for their consumption expenses which incur in foreign currency.]
+###.pink.pull-right[ No country can to operate its external account with this mindset] 
+---
+
+## Rampant profligacy
+### State and Society profligacy duly supported by government
+
+- #### Four-wheel drive vehicles, one notices
+- #### Lavish dinners, marriage ceremonires
+- #### consumption of imported mineral water, tioletries by upper and upper-middle class
+- #### retailers use of imported fuel w/o utilising daylight
+- #### PMLN justifies costly imported coal power plant
+- #### PTI justifies CBU 1500 plus CC Vehicles in 2020 and 2021
+
+---
+class: inverse title-slide
+## How to rectify anti-common man mindset
+### Hardly any political regime will be different
+### Ray of hope: youth, Youth is a mob in era of social media: Shari Baloch or streamlined for the sustainable development of the country. 
+### Skilled, productive, innovative, future oriented, jolly, big dreaming ... youth is the solution
+
+### .yellow.pull-left[Discussion in our society is not to correct the mistake but how to delay or defer the catastrophe: or in other words, post-pone the hour-of-reckoning approach.]
+
+###.yellow.pull-right[ The option how to use youth is open for the political players and the establishment alike]
+
+---
+
+## [The exchange rate challenge](https://www.brecorder.com/news/40172209/the-exchange-rate-challenge)
+
+### Growth can come through improving exports in industry, agriculture and services. 
+### Exchange rate: Policy instrument
+- #### Price stability through overrated ER or
+- #### market based value?
+???
+Price stability for short run by injecting USD into market, not sustainable (neither enough reserves nor can be done for long)
+Export becomes uncompetitive
+Overvalued ER: only for textile where import is major component 
+But loss of reserves 
+False pride in overvalued rupees
+RER= supply and demand are in balance. To put simply, the value of exports and the sum of immigrant remittances must be about the same as the import, the expense our foreign travels, plus payment against foreign investments.
+
+---
+
+## .orange[Exchange rate is considered in Pakistan as a barometer of pride. The higher the value of Pak Rs., higher our self-esteem. In practice, overvalued exchange rate helps in having stable price level in the short run, if one has enough reserves which unfrotunately we dont have. But its damage in terms of becoming uncompetitive far outweighs its benefits of price stability]
+
+---
+
+## [Rupees Overevaluation: Asad Zaman](https://www.dawn.com/news/1483223/rupee-overvaluation)
+
+### Rs. overvaluation: only if govt sells dollars in market
+### OVRs: subsidy across all import, $100 for 90$
+### Detrimental to domestic industry
+### Beneficial to import: oil czars will import 
+---
+class: center middle inverse
+
+# Why have we pursued a policy of mass subsidy for all imports?
+## The domestic economy will never learn to produce if it is cheaper to import goods at prices subsidised by government borrowing.
+
+---
+
+### .pull-left[Our oil czars import oilseeds from Brazil and Malaysia, since it costs more to grow our own sunflowers! ]
+### .pull-right[Attempts at producing export-oriented silk, olive oil, palm oil, small electronics, and other light industrial products, have all faltered because overvaluation makes it extremely difficult to produce competitive products.]
+---
+
+## .orange.pull-left[Pakistani efforts have failed because overvaluation makes imports cheap. China, Japan and East Asian countries followed the opposite policy of undervaluation to industrialise.]
+
+## .orange.pull-right[The question is why, when it is so harmful for local development, have we pursued a policy of mass subsidy for all imports over decades. Billions of dollars in subsidies goes to select industries which profit immensely from cheaper-than-market-value imports. ]
+
+---
+class: center inverse title-slide
+background-image: url(investment.jpg)
+background-position:  100% 100%
+background-size:  contain
+# .yellow_orange.i[One of the most serious dilemma for Pakistan ]
+
+
+---
+class: left title-slide
+# Primary things 
+
+## INVESTMENT
+## INVESTMENT
+## INVESTMENT
+## INVESTMENT

@@ -66,9 +66,9 @@ class:  left
 background-image: url(uol.jpg)
 background-position: 100% 0%
 background-size: 15%
- > ### .pink[Economic theory dictates that if a CAD is being financed by borrowing, with associated costs, it will become unsustainable and today the rise in domestic and foreign debt has crossed all previous records. In addition, loss of currency from Rs.152 to Rs.200 rupees to the dollar would raise the risk of capital flight as there will be loss of faith in the value of currency by both foreign and residents. Pakistan has gone through this boom and bust cycles many times before: an import-driven boom, balance of payments crisis, International Monetary Fund (IMF) bailout, stabilisation, a period of growth and then back to a crisis. This time is no different.]
+> > ## .pink[Economic theory dictates that if a CAD is being financed by borrowing, with associated costs, it will become unsustainable and today the rise in domestic and foreign debt has crossed all previous records. In addition, loss of currency from Rs.152 to Rs.200 rupees to the dollar would raise the risk of capital flight as there will be loss of faith in the value of currency by both foreign and residents. Pakistan has gone through this boom and bust cycles many times before: an import-driven boom, balance of payments crisis, International Monetary Fund (IMF) bailout, stabilisation, a period of growth and then back to a crisis. This time is no different.]
 ---
-class:  left   title-slide
+class:  left   inverse
 background-image: url(uol.jpg)
 background-position: 100% 0%
 background-size: 15%
@@ -83,7 +83,8 @@ background-size: 15%
  
 ### Stagnant Export  , High Unemployment
 
-### NFC, Provincial tax structure, ....
+### NFC
+### Provincial tax structure
 
 ???
 Devolution is good with responsibility but NFC 
@@ -142,17 +143,14 @@ Pakistan HDI rank
 | India      | 131 |
 | Bangladesh    | 133 |
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
+
 ### Debt composition and consumption
 | Nature | %age  |
 |----------|-------|
 | Multilateral      | 48% |
 | Bilateral       | 30% |
 | Commercial   | 22% |
-### Bilateral and Commercial : only used for financing CAD and no capital investment
+###Latter two : only used for financing CAD and no capital investment
 Out of multilateral: its used for consumption
 
 ### No infrastructure project like a dam was built
@@ -162,10 +160,7 @@ Out of multilateral: its used for consumption
 Due to heavy debt burden, little left for investment in health and education
 
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
+
 ##Trend of borrowing
 ####  Pakistan: Pampered country during cold war 
 #### Borrowing during cold war by leveraging geography
@@ -175,10 +170,6 @@ background-size: 25%
 ### .pink.pull-left[Pakistan as a state and Pakistanis in their personal capacity are living on borrowed money for their consumption expenses which incur in foreign currency.]
 ###.pink.pull-right[ No country can to operate its external account with this mindset] 
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
 
 ## Rampant profligacy
 ### State and Society profligacy duly supported by government
@@ -191,9 +182,9 @@ background-size: 25%
 - #### PTI justifies CBU 1500 plus CC Vehicles in 2020 and 2021
 
 ---
-class:  center middle  
+class:  center middle 
 background-image: url(uol.jpg)
-background-position: 100% 100%
+background-position: 100% 0%
 background-size: 25%
 
 
@@ -242,7 +233,7 @@ class: center middle inverse
 ## .orange[The question is why, when it is so harmful for local development, have we pursued a policy of mass subsidy for all imports over decades. Billions of dollars in subsidies goes to select industries which profit immensely from cheaper-than-market-value imports. ]
 
 ---
-class:  left  
+class:  left   title-slide
 background-image: url(uol.jpg)
 background-position: 100% 0%
 background-size: 15%
@@ -250,15 +241,24 @@ background-size: 15%
 ## Flawed Economic Discourse 
 ### Pipedreams: SEZs, Roads, Corridors, Gas pipelines 
 ### Chinese SEZs were innovation incubators
-### Stuck: should we focus on hardware or on software
+### Stuck: should we focus on hardware or on software 
+
+--
+
 ### Should focus on Agricutlure, Industry, Services, CPEC/not, ...
 
-### Wrong questions: Economy is not a sectoral approach, one cant fix it by considering it a complicated phenomenon 
+--
+### Fundamentally wrong questions: Economy is not a sectoral approach, one cant fix it by considering it a complicated phenomenon
 
+--
 ### One has to think in complexity 
 ???
 Its not something reducing complexity
 
+
+--
+
+### Reality: Software and hardware has to co-evolve
 ---
 class:  left   title-slide
 background-image: url(uol.jpg)
@@ -301,14 +301,14 @@ background-image: url(uol.jpg)
 background-position: 100% 0%
 background-size: 15%
 
-## Sustained Flawed Policies
-####  Costly energy deals beneficials to sellers
-####  Power generation plants on same TORs as Zardari
-####  Failure to import RLNG on time
-####  Unsustainable circular debt: Rs. 1.2 trillion in 2018 before PTI government & now 2.4 trillion Rs 
-#### Little room to play : Debt, Defence, Pension, Government Expenditure, with ex-PM focus for more resources to Kamyab Jawan and Ehsas program.
+### Sustained Flawed Policies
+- ###  Zardari : Costly energy deals beneficials to sellers
+- ###  Nawaz Sharif: Power generation plants on same TORs as Zardari
+- ###  Imran Khan : Failure to import RLNG on time
+- ###  Unsustainable circular debt: Rs. 1.2 trillion in 2018 before PTI government & now 2.4 trillion Rs 
+- ### Little room to play : Debt, Defence, Pension, Government Expenditure, with ex-PM focus for more resources to Kamyab Jawan and Ehsas program.
 
-#### Succesive governments fulfilled their commitment of shifting the burden to consumers but never fulfills its commitment of deep structural reforms 
+- ### Succesive governments fulfilled their commitment of shifting the burden to consumers but never fulfills its commitment of deep structural reforms 
 ???
  The sustained flawed policies over decades of postponing the hour of reckoning have not only made the donors reluctant to accept pledges for meaningful non-reversible reforms, a situation exacerbated by lack of US support on their boards, but also due to the presentation of half-truths to the executive which prevents meaningful reforms.
 
@@ -323,10 +323,9 @@ background-size: 25%
 - #### Pak Import=2*X, remittances $25b
 - #### Import demandd but nothing to generate to sell
 - #### low productivity
---
-- ###  Elite Capture: Everywhere but engaged in productive activities: China, Japan (in the past) and export oriented.]
-### .orange[Let some people get rich first] : Deng Xiopeng
-###  problem: Elite capture and also of bad quality
+- ###  .orange[Elite Capture: Everywhere but engaged in productive activities: China, Japan (in the past) and export oriented.]
+
+### Twin problem: Elite capture and also of bad quality
 ### For progress to be made: Elite to follow rules and there is a central military command
 ???
  Atif Mian
@@ -552,7 +551,8 @@ class: top left
 1. rise in price of crude oil from $45 to $109
 2. jump in consumption of petroleum products after covid-19 (14%)
 3. 347% increase in import bill of medicines due to Covid - will phase out now
-
+4
+---
 
 ---
 class:  left   
@@ -660,24 +660,12 @@ Why this huge budge deficit : Oil prices led to fall in revenue from PL
 
 
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
 
 > ## [.zomp[Recently, an encouraging shift away from .orange.bold.i[best practices] in the dominant good-governance agenda toward a localized .orange.bold.i[best fit] approach in foreign aid and reforms. Experts like .orange[Rodrik, Pritchett, Woodlock, Grindle, Fkuyama, Evans among others], have argued that solutions in developing countries should be tailored to .orange.i[local context], .orange.i[local knowledge], and .orange.i[particular situation]].](https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 35%
 
 > ## [.blue[Andrew prescribes the following rule of thumb in approach he calls "problem driven iterative adaptation (PDIA)":instead of selling solutions to aid recipients, .yellow_orange[identify local problems first]; .orange[instead of imposing best practices], .yellow_orange[use step-by-step experimentation]; .orange[instead of making top-down plans], .yellow_orange[engage broad stakeholders]].]((https://www.cornellpress.cornell.edu/book/9781501700200/how-china-escaped-the-poverty-trap/)
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 15%
 
 ### Economy: set of individual and group decisions 
 #### Bottom-up, Top-down, mix or some other: vary 
@@ -716,19 +704,33 @@ Revenue Targets missed: More taxes   64 WHT
  - 5-Year plans for all Basics
  
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 15%
-## Get the growth model
 
-### Export led policies help China, SK and others 
-### Digitization, Digitalization, SEZ
-### Reverse Myopia
-### .orange[Build the capacity to play long game where decisions 20 years from now]
-### Long game: who we are as a nation? 
-### Where we want to go?
+## Get the growth model
+ - Export led policies help China, SK and others 
+ - Special Economic Zones 
+ - Digitization (Inequality)
+ - Reverse Myopia
+ -.orange[Build the capacity to play long game where decisions 20 years from now]
+ - Long game: who we are as a nation? 
+ - Where we want to go?
  
+---
+
+## Boosting Domestic Productivity
+ > Boosting domestic productivity which means raising the capacities and capabilities of your people 
+ - Our focus : Ask US to do this, ask China for Gawadar/CPEC 
+ - Not focusing on building domestic institutions, improving domestic capacity 
+ - Why don't governments focus 
+ - One needs hard work, local thinking, building teams, build institutions 
+   - Hire right competent people
+   - no to nepotism
+   - Easy not to do any of that  
+### Learning how to catch a fish...
+  
+  - #### Broad conceptual parameters
+  - #### Boosting domestic productivity
+  - #### Agriculture
+   
 
 ???
 class: top left inverse
@@ -748,7 +750,7 @@ class: top left inverse
     - Freedom to think , choices, more productive
 
 - All this needs creative cities
-???
+--
 
 - How can start this journey: Hard choice, long term phenomenon
 
@@ -759,7 +761,7 @@ class: top left inverse
 - Intolerance, hate, lack of property rights, social justice, inequality  
 (Social Goods) 
 
-???
+--
 - Subsidies
 - SROs
 - Protection
@@ -767,7 +769,7 @@ Cement, Textile, Fertilizers, Cars…. (all domestic consumption, no export)
 - Profits of rent-seekers are secured
 - No need for innovation, and growth is happening only due to increase in population 
 
-
+???
 ## Short-termism: MYOPIC APPROACH
  
  - Successive governments suffering from myopia 
@@ -779,58 +781,63 @@ Cement, Textile, Fertilizers, Cars…. (all domestic consumption, no export)
  - Poor aid governance led to poor aid practices
  - This distracts one not to think hard
    
-
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
-## Most of economic thinking:
+## What to do ?
 
-### .orange[“How can living-standards be improved for most of humanity”] 
+ - Pakistan's economic and export problems are deep and structural 
+ - Focusing on fixing twin deficit (CAD & FD) is misplaced and is important for the time being. Addressing symptoms will not cure the disease
+ - Build up domestic capacity to innovate, to organize and to manage  - An Economist Job: not to tell what to do and what not 
 
-#### Answers vary while Question remain same 
-#### Eternal struggle for mankind 
-#### Preachers, utopians philosophers and many others: 
+ - But tell cost of doing business as usual vs develop your software and progress 
 
+ - Talent will not stay 
+
+ - Production over Commerce 
+
+ - Our full focus on meeting dollar demand is misplaced
+
+ - Social contract goods  
+
+ - Cities have key role in provision of social contract goods 
+
+--
+- Most of economic thinking:
+“How can living-standards be improved for most of humanity” 
+
+- Answers vary while Question remain same 
+- Eternal struggle for mankind 
+Preachers, utopians philosophers and many others: 
+Everyone defends one’s utopia that people lot can be improved if follow their description 
 - Dev. Community: prey to descriptive approach 
 - Experts: pretend to have solutions 
 - We are all told :  Implement, Implement … 
 - Monitoring mechanisms: MDGs, SDGs 
 - 70 years of experts dev.policy, aid funding and many consultant, plan… 
 - Development has eluded a large number of countries : Why is that? 
-???
-Everyone defends one’s utopia that people lot can be improved if follow their description 
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
-### Donors and Experts : Easy answers 
-### Prescriptions are not implemented 
-### Lack of political will : If success, they celebrate otherwise blame 
-### Best practices 
-### How can same policies for all countries 
-### Approach : Top-down (All solutions from foreign experts)
-### Land-cruisers, consultants … results are the same
+- Donors and Experts : Easy answers 
+- Prescriptions are not implemented 
+- Lack of political will : If success, they celebrate otherwise blame 
+- Best practices 
+- How can same policies for all countries 
+- Practices well known ,govt implementing agency 
+- Approach : Top-down (All solutions from foreign experts)
+Land-cruisers, consultants … results are the same
 
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
 ## What is wrong with this model/approach
 
-#### Ideological models and experts assume: Society and development: Eng phenomenon 
-#### Plan properly and then everyone will live according to the plan and good things will happen     
+- Ideological models and experts assume: Society and development: Eng phenomenon 
+- Plan properly and then everyone will live according to the plan and good things will happen 
 
-#### Eng: Inert materials 
+- Eng: Inert materials 
 
-#### Social problems: self-willed, individualistic human beings 
+- Social problems: self-willed, individualistic human beings 
 
-#### People: ambitions, plans &desires individually and collectively, People don’t change because consultant want 
+- People: ambitions, plans &desires individually and collectively
+People don’t change because consultant want 
 
-#### Most serious economists moved away from this approach 
+- Most serious economists moved away from this approach 
 ???
 - Economy: set of independent and groups decisions 
  - Bottom-up
@@ -882,43 +889,34 @@ Revenue Targets missed: More taxes   64 WHT
 ### Hayek, Change and Complexity
 
 >#### It is, perhaps, worth stressing that economic problems arsie always and only in consequences of change. The Use of Knowledge in Society.
-
 ---
-class:  left   
-background-image: url(uol.jpg)
-background-position: 100% 100%
-background-size: 25%
-## Boosting Domestic Productivity
-### > Boosting domestic productivity which means raising the capacities and capabilities of your people
+
+## Get the growth model
+- #### Export led policies help China, SK and others 
+- #### Special Economic Zones 
+- #### Digitization (Inequality)
+- #### Reverse Myopia
+> ####     Build the capacity to play long game where decisions 20 years from now.
+  ####     Long game: who we are as a nation? 
+  ####     Where we want to go?
  
-#### Our focus : Ask US to do this, ask China for Gawadar/CPEC 
-#### Not focusing on building domestic institutions, improving domestic capacity 
-### Why don't governments focus 
-#### One needs hard work, local thinking, building teams, build institutions 
-   - Hire right competent people
-   - no to nepotism
-   - Easy not to do any of that  
-   
-### Learn how to catch a fish...
-  
-#### Broad conceptual parameters
-#### Boosting domestic productivity
-#### Investment in Agriculture, Industry 
-   
+???
+`r emo::ji ("bird")`
 
 ---
-
 class: center inverse title-slide
 background-image: url(investment.jpg)
 background-position:  100% 100%
 background-size:  contain
 # .yellow_orange.i[Attracting Investment is an only way-forward for Pakistan ]
+
+
 ---
 class: center inverse title-slide
 background-image: url(uol.jpg)
 background-position:  100% 100%
 background-size:  contain
- 
+# Primary things 
 ## SUCCESS 
 ## INVESTMENT 
 ## LOCAL THOUGHT
